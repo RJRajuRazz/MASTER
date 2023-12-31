@@ -143,13 +143,6 @@ for agent in range(10000):
     ugen.append(fullagnt)
 
 #---------------------•Only Country•---------------------#
-try:
-    IP = requests.get("http://ip-api.com/json/").json()["query"]
-    Picchi = requests.get("http://ip-api.com/json/").json()["country"]
-    if "Bangladesh" not in Picchi:
-            print(f"\n\x1b[38;5;44mSorry Bro  RJRajuRazz Tools will only work in Bangladesh\033[1;97m")
-            RJRajuRazz = input('\n\x1b[38;5;196mYour Any mbasicblem Help (y/n) : ')
-            if RJRajuRazz == 'y':
                os.system('xdg-open https://www.facebook.com/profile.php?id=100046446651828')
             exit()
 except requests.exceptions.ConnectionError:
