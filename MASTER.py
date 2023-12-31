@@ -143,8 +143,6 @@ for agent in range(10000):
     ugen.append(fullagnt)
 
 #---------------------•Only Country•---------------------#
-               os.system('xdg-open https://www.facebook.com/profile.php?id=100046446651828')
-            exit()
 except requests.exceptions.ConnectionError:
         print(f"\033[1;91mYour net mbasicblem please turn on data or wifi\033[1;97m")
         exit()
