@@ -143,9 +143,6 @@ for agent in range(10000):
     ugen.append(fullagnt)
 
 #---------------------•Only Country•---------------------#
-        print(f"\033[1;91mYour net mbasicblem please turn on data or wifi\033[1;97m")
-        exit()
-
 def clear():
     os.system('clear')
     print(RJRajuRazz)
